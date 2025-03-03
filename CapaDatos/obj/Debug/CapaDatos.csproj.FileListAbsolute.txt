@@ -4,3 +4,9 @@ C:\Users\Mauricio\source\repos\IngSoft2Test\CapaDatos\obj\Debug\CapaDatos.csproj
 C:\Users\Mauricio\source\repos\IngSoft2Test\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\Mauricio\source\repos\IngSoft2Test\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Mauricio\source\repos\IngSoft2Test\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaDatos\obj\Debug\CapaDatos.pdb

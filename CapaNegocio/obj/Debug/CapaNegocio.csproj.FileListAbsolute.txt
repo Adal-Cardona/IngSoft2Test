@@ -7,3 +7,12 @@ C:\Users\Mauricio\source\repos\IngSoft2Test\CapaNegocio\obj\Debug\CapaNegocio.pd
 C:\Users\Mauricio\source\repos\IngSoft2Test\CapaNegocio\bin\Debug\CapaDatos.dll
 C:\Users\Mauricio\source\repos\IngSoft2Test\CapaNegocio\bin\Debug\CapaDatos.pdb
 C:\Users\Mauricio\source\repos\IngSoft2Test\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\adalc\OneDrive\Documentos\UVNE\7mo\Ing. sistemas\IngSoft2Test\CapaNegocio\obj\Debug\CapaNegocio.pdb
